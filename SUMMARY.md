@@ -1,13 +1,14 @@
 # Table of contents
 
 * [Welcome!](README.md)
+* [Design Criteria](design-criteria.md)
+* [Design Prototype](design-prototype.md)
 
-## The Company
+## Components
 
-* [Vision and Values](the-company/vision-and-values.md)
-* [Meet the Team!](the-company/meet-the-team.md)
-
-## The Formal Stuff
-
-* [Requesting Time Off](the-formal-stuff/requesting-time-off.md)
-* [Filing Expenses](the-formal-stuff/filing-expenses.md)
+* [BPTextInput](components/bptextinput.md)
+* [BPDatePicker](components/bpdatepicker.md)
+* [BPButton](components/bpbutton.md)
+* [BPDomainSelector](components/bpdomainselector.md)
+* [BPCheckbox](components/bpcheckbox.md)
+* [BPCheckboxGroup](components/bpcheckboxgroup.md)

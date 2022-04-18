@@ -37,8 +37,8 @@ To better improve UI and UX while using Indigo UI, you may need to re-think abou
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components/bpdomainselector.md" %}
-[bpdomainselector.md](components/bpdomainselector.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="components/bpcheckbox.md" %}
@@ -53,7 +53,7 @@ To better improve UI and UX while using Indigo UI, you may need to re-think abou
 
 Indigo UI is hand-crafted by [all team members](https://github.com/david-fisher/320-S22-Track2/wiki/Indigo) from Indigo Development.
 
-Some components, features, and interaction designs are inspired by [Defined Elements React](https://github.com/defined-elements/react), which is Lingxi's in-developing cross-platform open-source UI project. It is still under initial development, so you may not have access to it before it starts alpha testing, but you can still see some amazing designs and details right out-of-box in the Clog system.
+Some components, features, and interaction designs are inspired by [Defined Elements React](https://github.com/defined-elements/react), which is Lingxi's in-developing cross-platform open-source UI library project. It is still under initial development, so you may not have access to it before it starts alpha testing, but you can still see some amazing designs and details right out-of-box in the Clog system.
 
 ## Contact
 

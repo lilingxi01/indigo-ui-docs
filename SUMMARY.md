@@ -10,6 +10,6 @@
 * [BPTextButton](components/bptextinput-1.md)
 * [BPButton](components/bptextinput-2.md)
 * [BPDatePicker](components/bptextinput-3.md)
-* [BPDomainSelector](components/bpdomainselector.md)
+* [BPDomainSelector](components/bptextinput-4.md)
 * [BPCheckbox](components/bpcheckbox.md)
 * [BPCheckboxGroup](components/bpcheckboxgroup.md)

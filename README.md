@@ -41,8 +41,8 @@ To better improve UI and UX while using Indigo UI, you may need to re-think abou
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components/bpcheckbox.md" %}
-[bpcheckbox.md](components/bpcheckbox.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="components/bpcheckboxgroup.md" %}

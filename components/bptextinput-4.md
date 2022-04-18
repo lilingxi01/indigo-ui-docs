@@ -28,13 +28,13 @@ A minimal example on how to use it should be:
 
 ```javascript
 <BPDomainSelector
-  id={'an-id'}
-  label={'Business Domain'}
-  searchPlaceholder={'Search a business domain'}
-  list={aBusinessDomainSampleList} // Put the list into here. It could be a state.
-  onChange={(selected) => {
-    setSelectedBusinessDomain(selected);
-    // `selected` is a list even when there is only one selected option.
-  }}
+    id={'an-id'}
+    label={'Business Domain'}
+    searchPlaceholder={'Search a business domain'}
+    list={aBusinessDomainSampleList} // Put the list into here. It could be a state.
+    onChange={(selected) => {
+        setSelectedBusinessDomain(selected);
+        // `selected` is a list even when there is only one selected option.
+    }}
 />
 ```

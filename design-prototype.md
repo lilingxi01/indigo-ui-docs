@@ -14,7 +14,7 @@ Dashboard now has a better functionality design by Sesame team, so this prototyp
 
 ![](.gitbook/assets/Dashboard@3x.png)
 
-## All Logs Page
+## Log Events Page
 
 ![](.gitbook/assets/Log@3x.png)
 

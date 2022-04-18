@@ -8,7 +8,7 @@ description: >-
 
 ## Preview
 
-![BPDomainSelector](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.37.53 PM.png>)
+![](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.43.43 PM.png>)
 
 ## Properties
 

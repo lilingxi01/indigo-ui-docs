@@ -33,8 +33,8 @@ To better improve UI and UX while using Indigo UI, you may need to re-think abou
 [Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="components/bpbutton.md" %}
-[bpbutton.md](components/bpbutton.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="components/bpdomainselector.md" %}

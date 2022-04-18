@@ -7,8 +7,9 @@
 ## Components
 
 * [BPTextInput](components/bptextinput.md)
-* [BPDatePicker](components/bptextinput-1.md)
-* [BPButton](components/bpbutton.md)
+* [BPTextButton](components/bptextinput-1.md)
+* [BPButton](components/bptextinput-2.md)
+* [BPDatePicker](components/bptextinput-3.md)
 * [BPDomainSelector](components/bpdomainselector.md)
 * [BPCheckbox](components/bpcheckbox.md)
 * [BPCheckboxGroup](components/bpcheckboxgroup.md)

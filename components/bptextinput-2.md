@@ -1,8 +1,8 @@
 ---
-description: A consistent inline-text button component.
+description: A consistent primary button component.
 ---
 
-# BPTextButton
+# BPButton
 
 ## Properties
 
@@ -19,8 +19,8 @@ description: A consistent inline-text button component.
 A minimal example on how to use it should be:
 
 ```javascript
-<BPTextInput
-    id={'a-button-id'}
+<BPInput
+    id={'a-primary-button-id'}
     onClick={(event) => {
         // Do something when button is clicked.
     }}

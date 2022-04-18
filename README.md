@@ -1,6 +1,6 @@
 ---
 description: >-
-  Hi, this is a User Interface Design Document by Indigo Development. It
+  Hi, this is a User Interface Design Documentation by Indigo Development. It
   contains design concepts, design criteria, and all API documentations of our
   UI components.
 cover: .gitbook/assets/Artboard 1.svg

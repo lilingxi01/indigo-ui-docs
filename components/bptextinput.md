@@ -6,6 +6,10 @@ description: >-
 
 # BPTextInput
 
+## Preview
+
+![BPTextInput](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.35.32 PM.png>)
+
 ## Properties
 
 | Prop           | Type                | Description                                                                                                                                                |

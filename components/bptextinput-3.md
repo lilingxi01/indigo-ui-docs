@@ -4,6 +4,10 @@ description: A magic component that can be used to let user input a date.
 
 # BPDatePicker
 
+## Preview
+
+![BPDatePicker](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.37.04 PM.png>)
+
 ## Properties
 
 | Prop       | Type                | Description                                                                                                                                                                            |

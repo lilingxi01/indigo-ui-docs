@@ -6,6 +6,10 @@ description: >-
 
 # BPDomainSelector
 
+## Preview
+
+![BPDomainSelector](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.37.53 PM.png>)
+
 ## Properties
 
 | Prop                | Type                | Description                                                                                                                                                   |

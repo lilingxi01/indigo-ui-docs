@@ -4,6 +4,10 @@ description: A consistent primary button component.
 
 # BPButton
 
+## Preview
+
+![BPButton](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.36.43 PM.png>)
+
 ## Properties
 
 | Prop      | Type            | Description                                                                   |

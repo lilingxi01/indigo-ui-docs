@@ -4,6 +4,10 @@ description: A component of single checkbox (with label).
 
 # BPCheckbox
 
+## Preview
+
+![BPCheckbox](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.39.01 PM.png>)
+
 ## Properties
 
 | Prop              | Type                      | Description                                                                                                                                      |

@@ -4,6 +4,10 @@ description: A consistent inline-text button component.
 
 # BPTextButton
 
+## Preview
+
+![BPTextButton](<../.gitbook/assets/Screen Shot 2022-04-18 at 5.36.23 PM.png>)
+
 ## Properties
 
 | Prop      | Type            | Description                                                                   |

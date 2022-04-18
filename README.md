@@ -29,8 +29,8 @@ To better improve UI and UX while using Indigo UI, you may need to re-think abou
 [bptextinput.md](components/bptextinput.md)
 {% endcontent-ref %}
 
-{% content-ref url="components/bpdatepicker.md" %}
-[bpdatepicker.md](components/bpdatepicker.md)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
 {% content-ref url="components/bpbutton.md" %}

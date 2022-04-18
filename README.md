@@ -29,24 +29,24 @@ To better improve UI and UX while using Indigo UI, you may need to re-think abou
 [bptextinput.md](components/bptextinput.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="components/bptextinput-1.md" %}
+[bptextinput-1.md](components/bptextinput-1.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="components/bptextinput-2.md" %}
+[bptextinput-2.md](components/bptextinput-2.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="components/bptextinput-3.md" %}
+[bptextinput-3.md](components/bptextinput-3.md)
 {% endcontent-ref %}
 
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
+{% content-ref url="components/bptextinput-4.md" %}
+[bptextinput-4.md](components/bptextinput-4.md)
 {% endcontent-ref %}
 
-{% content-ref url="components/bpcheckboxgroup.md" %}
-[bpcheckboxgroup.md](components/bpcheckboxgroup.md)
+{% content-ref url="components/bptextinput-5.md" %}
+[bptextinput-5.md](components/bptextinput-5.md)
 {% endcontent-ref %}
 
 ## Credits

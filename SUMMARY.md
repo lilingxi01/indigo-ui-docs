@@ -12,4 +12,4 @@
 * [BPDatePicker](components/bptextinput-3.md)
 * [BPDomainSelector](components/bptextinput-4.md)
 * [BPCheckbox](components/bptextinput-5.md)
-* [BPCheckboxGroup](components/bpcheckboxgroup.md)
+* [BPCheckboxGroup](components/bptextinput-6.md)
